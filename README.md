@@ -109,3 +109,7 @@ Each stat follows the classic Linux pattern: **run a command → filter it → e
 screenshot
 
 <img width="1920" height="941" alt="Screenshot from 2026-06-25 15-08-59" src="https://github.com/user-attachments/assets/fede9253-f5d0-40d5-aed6-cbbfda053eda" />
+
+project URL:
+
+https://github.com/rana-zaid-gc/server-stats-script.git
