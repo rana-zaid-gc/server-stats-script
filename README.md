@@ -2,7 +2,7 @@
 
 A Bash script that analyzes the performance of any Linux server and prints a clean, readable report in one command. Built to practice shell scripting and the core Linux tools every DevOps engineer uses daily — `ps`, `top`, `free`, `df`, `awk`, `grep`, and `sed`.
 
-Project URL:https://github.com/rana-zaid-gc/server-stats-script
+[Project URL:https://github.com/rana-zaid-gc/server-stats-script](https://roadmap.sh/projects/server-stats)
 
 
 ## What it reports
