@@ -112,4 +112,4 @@ screenshot
 
 project URL:
 
-https://github.com/rana-zaid-gc/server-stats-script.git
+https://github.com/rana-zaid-gc/server-stats-script
